@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Leders_CountApp</string>
+    <string name="plus">＋</string>
+    <string name="minus">−</string>
+    <string name="reset">RESET</string>
+
+</resources>
